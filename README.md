@@ -1,1 +1,1 @@
-# smart-mirror
+/workspaces/smart-mirror/index.html
